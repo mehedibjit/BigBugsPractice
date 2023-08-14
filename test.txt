@@ -1,6 +1,11 @@
 Test1
 Test2
 Test3
+<<<<<<< HEAD
 Test34
 TEST 5
 Test 6
+=======
+Test4
+TEST 50
+>>>>>>> eb24737bbb6474a4ab193e70fe1ffe40b6554a68
